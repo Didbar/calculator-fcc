@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-
+/* eslint no-eval: 0 */
 class Calculator extends Component {
   state = {
     main: "",
